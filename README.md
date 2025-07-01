@@ -11,7 +11,7 @@
 ابتدا مخزن را کلون کرده و وارد پوشه آن شوید:
 
 ```bash
-git clone https://github.com/your-username/paknia.git
+git clone https://github.com/liampaknia/paknia.git
 cd paknia
 ````
 
@@ -66,7 +66,4 @@ paknia/
 ├── public/         فایل‌های عمومی
 └── README.md       مستندات پروژه
 ```
-
-```
-
 ```
